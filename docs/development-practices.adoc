@@ -299,7 +299,7 @@ include exactly the same information.
   https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/scripts/checkpatch.pl
 
 * [[[judin]]] A Successful GIT Branching Model Considered Harmful. Jussi Judin.
-  https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
+  https://barro.github.io/2016/02/a-successful-git-branching-model-considered-harmful/
 
 * [[[kdp4coding]]] A guide to the Kernel Development Process, Chapter 4. Coding.
   https://github.com/torvalds/linux/blob/master/Documentation/process/4.Coding.rst
